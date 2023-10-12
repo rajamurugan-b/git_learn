@@ -4,3 +4,5 @@ def ban():
 return xyz
 def new_func()
 lines added by bangalore
+7th line by bangalore
+8th line by bangalaore
